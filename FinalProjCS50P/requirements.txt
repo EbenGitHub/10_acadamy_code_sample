@@ -1,0 +1,5 @@
+cryptography
+cowsay
+tabulate
+fpdf
+pytest
